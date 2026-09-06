@@ -26,7 +26,7 @@ cap = cv2.VideoCapture(0, cv2.CAP_DSHOW)   # 0 = first camera; try 1 if wrong on
 assert cap.isOpened(), "no camera"
 cap.read()                                  # DirectShow needs one frame before settings
 
-exposure = -10                              # ASSUMPTION: log2 scale; tune with +/-
+exposure = -12                              # ASSUMPTION: log2 scale; tune with +/-
 cap.set(cv2.CAP_PROP_AUTO_EXPOSURE, 0.25)   # 0.25 = manual on most Windows drivers
 cap.set(cv2.CAP_PROP_EXPOSURE, exposure)
 cap.set(cv2.CAP_PROP_AUTO_WB, 0)
