@@ -31,7 +31,7 @@ Strip after RED → GREEN → BLUE. Every LED showed all three colours, every ce
 ![matrix empty](docs/matrix_empty.png)
 ![matrix passed](docs/matrix_passed.png)
 
-*(Fixture photo: camera mount and DUT holder – to be continued :-) )*
+*(Fixture photo: camera mount and DUT holder – to be continued)*
 
 ## How it works
 
