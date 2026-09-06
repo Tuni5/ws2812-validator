@@ -1,4 +1,4 @@
-# ws2812-testbench
+# ws2812-validator
 
 Bringup Lab, Station 1 – optical and protocol test for WS2812B LED strips and matrices.
 
