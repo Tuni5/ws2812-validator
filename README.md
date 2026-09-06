@@ -18,7 +18,7 @@ WS2812 LEDs have no return channel: the controller sends data and never learns w
 
 ## Pictures
 
-Strip under test, 8 LEDs, waiting for the sequence. Two LEDs were briefly red when this was taken, hence RED 2/8:
+Strip under test, 8 LEDs, waiting for the sequence. Six LEDs were briefly red when this was taken, hence RED 6/8:
 
 ![strip waiting](docs/strip_waiting.png)
 
